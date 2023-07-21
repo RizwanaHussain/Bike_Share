@@ -15,16 +15,16 @@
 <a name="intro"></a> 
 ## Introduction
 
-<img align="left" src="https://github.com/RizwanaHussain/SmartStudy/assets/139431006/b37acfd8-30ba-40b7-ac20-588a78b9d30a" alt="Google">
+<img align="left" src="https://github.com/RizwanaHussain/Bike_Share/assets/139431006/333be484-9aba-4837-8099-c2dad645b2ac" alt="Google">
 Welcome to the Cyclistic bike-share analysis capstone project, a part of the Google Data Analytics certification! As a junior data analyst at Cyclistic, a Chicago-based bike-share company, your mission is to uncover valuable insights on how casual riders and annual members use the service differently. By following the data analysis process and creating compelling visualizations, you will design a new marketing strategy to convert casual riders into loyal annual members. This portfolio-ready case study will showcase your knowledge and skills to potential employers, aiming to drive the company's future success. Let's embark on this exciting journey of data exploration and decision-making!
 
 <a name="scenario"></a> 
 ## The scenario  
 
-<img align="left" src="https://github.com/RizwanaHussain/Bike_Share/assets/139431006/20b74dcc-5d7b-40ae-86ca-6298d19b5f38" alt="cyclistic">
-
+<img align="left" src="https://github.com/RizwanaHussain/Bike_Share/assets/139431006/5a85bd9c-696c-4e0e-a66e-72b003efb680" alt="cyclistic">
 As a junior data analyst working in the marketing analyst team at Cyclistic, a bike-share company in Chicago. The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore, our team wants to understand how casual riders and annual members use Cyclistic bikes differently. 
 From these insights,our team will design a new marketing strategy to convert casual riders into annual members. But first, Cyclistic executives must approve our recommendations, so they must be backed up with compelling data insights and professional data visualizations. 
+
 
 <a name="about"></a>
 ## About the company 
@@ -60,8 +60,8 @@ To analyze the usage patterns of casual riders and annual members of Cyclistic b
 
  
 
-●	There are significantly more Member riders (3,338,629) compared to Casual riders (2,118,267).
-●	The number of Member riders is approximately 1.58 times higher than the number of Casual riders.
+> There are significantly more Member riders (3,338,629) compared to Casual riders (2,118,267).
+> The number of Member riders is approximately 1.58 times higher than the number of Casual riders.
 
 ### Average Distance:
 
