@@ -57,56 +57,75 @@ To analyze the usage patterns of casual riders and annual members of Cyclistic b
 ## Visualization & Findings 
 
 ### Rider Type Count:
+![image](https://github.com/RizwanaHussain/Bike_Share/assets/139431006/e0c0705b-e8f1-4445-a860-c9954c52f4d5)
 
- 
+![image](https://github.com/RizwanaHussain/Bike_Share/assets/139431006/e659267d-f8f9-4797-9d63-b62bc05e63aa)
 
-> There are significantly more Member riders (3,338,629) compared to Casual riders (2,118,267).
-> The number of Member riders is approximately 1.58 times higher than the number of Casual riders.
+
+  * There are significantly more Member riders (3,338,629) compared to Casual riders (2,118,267).
+  * The number of Member riders is approximately 1.58 times higher than the number of Casual riders.
 
 ### Average Distance:
 
+![image](https://github.com/RizwanaHussain/Bike_Share/assets/139431006/c1e29c34-0e90-4a97-8f0c-334881fb1e30)
  
+![image](https://github.com/RizwanaHussain/Bike_Share/assets/139431006/2f645728-dae1-4942-b7a6-1a71586efd91)
 
 
-●	Casual riders have a slightly higher average distance per ride (2.32 km) compared to Member riders (2.21 km).
-●	This suggests that Casual riders tend to take longer trips on average.
+ * Casual riders have a slightly higher average distance per ride (2.32 km) compared to Member riders (2.21 km).
+ * This suggests that Casual riders tend to take longer trips on average.
 
 ### Average Duration:
- 
 
-●	Casual riders have a higher average ride duration (15.29 minutes) compared to Member riders (11.09 minutes).
-●	This indicates that Casual riders spend more time on each trip compared to Member riders.
+![image](https://github.com/RizwanaHussain/Bike_Share/assets/139431006/3f5051b7-6faf-4c45-b19f-0addaf8efe97)
+
+![image](https://github.com/RizwanaHussain/Bike_Share/assets/139431006/c1fcb6d3-c0ae-4263-b1f8-6ff97232876d)
+
+
+* Casual riders have a higher average ride duration (15.29 minutes) compared to Member riders (11.09 minutes).
+* This indicates that Casual riders spend more time on each trip compared to Member riders.
 
 ### Seasonal Usage (Casual vs. Member):
 
- 
+![image](https://github.com/RizwanaHussain/Bike_Share/assets/139431006/30964c81-4c78-4da0-be78-3442a67ba829)
 
-●	The highest number of Casual and Member rides occur during the Summer season, followed by Fall.
-●	Casual riders show a more substantial increase in usage during the Summer season compared to Member riders.
-●	Member riders consistently have higher ride counts compared to Casual riders across all seasons.
+![image](https://github.com/RizwanaHussain/Bike_Share/assets/139431006/87e784ee-1d59-49a7-a448-df2b092e83c6)
+
+
+* The highest number of Casual and Member rides occur during the Summer season, followed by Fall.
+* Casual riders show a more substantial increase in usage during the Summer season compared to Member riders.
+* Member riders consistently have higher ride counts compared to Casual riders across all seasons.
 
 
 ### Weekly Usage (Casual vs. Member):
- 
 
-●	Member riders consistently have higher ride counts throughout the week compared to Casual riders.
-●	Both Casual and Member riders show relatively higher usage on weekends (Saturday and Sunday).
+![image](https://github.com/RizwanaHussain/Bike_Share/assets/139431006/1bb6f44d-03d5-429e-a26b-cc48e740f0bd)
+
+![image](https://github.com/RizwanaHussain/Bike_Share/assets/139431006/f477f284-ff3e-4bdc-b0f9-67c88732e6f4)
+
+* Member riders consistently have higher ride counts throughout the week compared to Casual riders.
+* Both Casual and Member riders show relatively higher usage on weekends (Saturday and Sunday).
 
 ### Hourly Usage (Casual vs. Member):
+
+![image](https://github.com/RizwanaHussain/Bike_Share/assets/139431006/fd078b17-77bf-47d3-ae61-63566568c16d)
+
+![image](https://github.com/RizwanaHussain/Bike_Share/assets/139431006/c53151be-6ab4-4b2b-81e1-216455086477)
+
  
-●	Casual riders tend to have more rides in the evening, with peak usage observed between 4 PM and 7 PM.
-●	Member riders show higher usage throughout the morning and early afternoon, with peak usage observed between 7 AM and 5 PM.
-●	Both rider types have lower usage during late-night and early morning hours.
+ * Casual riders tend to have more rides in the evening, with peak usage observed between 4 PM and 7 PM.
+ * Member riders show higher usage throughout the morning and early afternoon, with peak usage observed between 7 AM and 5 PM.
+ * Both rider types have lower usage during late-night and early morning hours.
 
 ### Bike Type Usage (Casual vs. Member):
 
- 
+![image](https://github.com/RizwanaHussain/Bike_Share/assets/139431006/58074074-3f6d-4f1d-bd7e-7958eaaa9b6c)
 
-●	Classic bikes are more popular among both Casual and Member riders.
-●	Casual riders show higher usage of electric bikes compared to Member riders.
-
+![image](https://github.com/RizwanaHussain/Bike_Share/assets/139431006/c3c91d67-eeb9-4f63-a6b5-a7fc1e39520d)
 
 
+* Classic bikes are more popular among both Casual and Member riders.
+* Casual riders show higher usage of electric bikes compared to Member riders.
 
 <a name="insights"></a>
 ## Insights & Recommendations
